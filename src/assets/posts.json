@@ -1,0 +1,23 @@
+{
+    "posts": [
+      {
+        "postId": 1,
+        "postHeading": "First Post",
+        "postDate": "2023-10-04",
+        "postAuthor": "John Doe"
+      },
+      {
+        "postId": 2,
+        "postHeading": "Second Post",
+        "postDate": "2023-10-05",
+        "postAuthor": "Jane Smith"
+      },
+      {
+        "postId": 3,
+        "postHeading": "Third Post",
+        "postDate": "2023-10-06",
+        "postAuthor": "Alice Johnson"
+      }
+    ]
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "postDescriptions": [
+      {
+        "postId": 1,
+        "postHeading": "First Post",
+        "description": "This is the description for the first post."
+      },
+      {
+        "postId": 2,
+        "postHeading": "Second Post",
+        "description": "A brief description of the second post goes here."
+      },
+      {
+        "postId": 3,
+        "postHeading": "Third Post",
+        "description": "Here's the description for the third post."
+      }
+    ]
+  }
+  
